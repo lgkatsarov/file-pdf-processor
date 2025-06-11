@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "pdfkit": "^0.17.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.6.0"
+  }
+}
